@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자이름)](https://github.com/사용자이름/github-readme-stats)
 <div align=center>
 <h3>반갑습니다! 김유림입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
